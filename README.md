@@ -8,4 +8,4 @@ What I Learnt From Doing This Project
 1. Using the right html boilerplate
 2. How to use git and github to track the changes and progress of a project
 3. Creating and organization of directories
-4. The use of relatine file paths
+4. The use of relative file paths
