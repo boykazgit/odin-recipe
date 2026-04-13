@@ -1,6 +1,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
+  background: rgb(255, 255, 185);
 }
 
 ol {
@@ -9,4 +10,21 @@ ol {
 
 ul {
   text-align: left;
+}
+
+ul,
+ol,
+.description-content {
+  color: orange;
+}
+
+h2,
+h3 {
+  color: red;
+  background: green;
+}
+
+.header {
+  color: lightseagreen;
+  background: #b22028;
 }

@@ -1,5 +1,11 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
+  background-color: lightsalmon;
+}
+
+.header {
+  background: #b22028;
+  color: lightseagreen;
 }
 
